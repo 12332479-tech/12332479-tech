@@ -2,7 +2,7 @@
 
 **Computer Science graduate · Software engineer · Open to work**
 
-I am looking for a **junior or graduate software engineering** role where I can ship reliable code, learn from a team, and grow on **backend, full-stack, or general software** problems.
+Junior / graduate **software engineering** roles — **full-stack**, **web**, and **backend**. Based in **Lebanon**, open to **remote**, **hybrid**, or **relocation**.
 
 ---
 
@@ -10,44 +10,45 @@ I am looking for a **junior or graduate software engineering** role where I can 
 
 | | |
 |---|---|
-| **Education** | B.S. Computer Science — *LIU · [Graduation month/year]* |
+| **Education** | B.S. Computer Science — LIU |
 | **Status** | Actively job searching |
-| **Location** | Lebanon · Open to **remote**, **hybrid**, or **relocation** |
-| **Strengths** | Algorithms & data structures, OOP, databases, Git, debugging, clear documentation |
+| **Location** | Lebanon |
+| **Focus** | Web apps, SQL/databases, cryptography fundamentals, clean UI |
 
 ---
 
 ## Technologies
 
 **Languages:** Python, Java, JavaScript/TypeScript, C++, SQL  
-**Development:** React, Node.js, REST APIs, HTML/CSS  
-**Practices & tools:** Git, Linux, testing, Docker, PostgreSQL
-
-*I keep this list aligned with what I use in my repositories and can discuss in interviews.*
+**Web:** React, Next.js, Node.js, Vite, REST, HTML/CSS, Tailwind  
+**Data & tools:** PostgreSQL, MySQL/MariaDB, Supabase, Git, Linux  
 
 ---
 
-## Selected work
+## Portfolio & projects
 
-1. **[project-bolt](https://github.com/12332479-tech/project-bolt)** — *[Add one line: what it does and why you built it.]* Stack: *…*
-2. **[contact-page](https://github.com/12332479-tech/contact-page)** — Contact and portfolio page for my work. Stack: HTML, CSS, JavaScript *(push this repo when ready)*
-
-Pin **project-bolt** and your best repos on [my profile](https://github.com/12332479-tech?tab=repositories).
+| Repository | Description |
+|------------|-------------|
+| [**car-rental-management-system**](https://github.com/12332479-tech/car-rental-management-system) | .NET 8 ASP.NET Core API and Windows Forms client for car inventory, authentication, and reservations |
+| [**marble-studio-website**](https://github.com/12332479-tech/marble-studio-website) | Next.js marble/studio site with bilingual UI, 3D viewer, product search, quote flow, and theme support |
+| [**classical-cipher-cryptanalysis**](https://github.com/12332479-tech/classical-cipher-cryptanalysis) | Interactive Next.js laboratory for Caesar and Vigenere encryption, frequency analysis, and cryptanalysis |
+| [**dentalxclub**](https://github.com/12332479-tech/dentalxclub) | Responsive dental clinic website built with HTML, CSS, JavaScript, PHP, and MySQL integration |
+| [**project-bolt**](https://github.com/12332479-tech/project-bolt) | React + Vite car catalog demo with Supabase API and multi-page routing |
 
 ---
 
 ## Open to
 
-- Graduate / junior **software engineer** and **developer** positions  
-- **Internships** leading to full-time  
-- Teams with mentorship, code review, and a clear growth path  
+- Graduate / junior **software engineer** positions  
+- **Internships** with path to full-time  
+- Teams that value code review, documentation, and learning  
 
 ---
 
 ## Contact
 
 - **Email:** [12332479@students.liu.edu.lb](mailto:12332479@students.liu.edu.lb)  
-- **LinkedIn:** *[Add your profile URL]*  
-- **GitHub:** [@12332479-tech](https://github.com/12332479-tech)
+- **GitHub:** [@12332479-tech](https://github.com/12332479-tech)  
+- **Profile website:** [github.com/12332479-tech](https://github.com/12332479-tech) *(add LinkedIn in GitHub settings when ready)*  
 
-If you are hiring or want to discuss a role, email is the fastest way to reach me.
+Recruiters: email is the fastest way to reach me.
