@@ -27,6 +27,8 @@ Junior / graduate **software engineering** roles — **full-stack**, **web**, an
 
 ## Portfolio & projects
 
+**Personal portfolio:** [mohamad-el-kassem-portfolio](https://github.com/12332479-tech/mohamad-el-kassem-portfolio)
+
 | Repository | Description |
 |------------|-------------|
 | [**car-rental-management-system**](https://github.com/12332479-tech/car-rental-management-system) | .NET 8 ASP.NET Core API and Windows Forms client for car inventory, authentication, and reservations |
